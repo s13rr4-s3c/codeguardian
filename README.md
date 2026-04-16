@@ -76,6 +76,14 @@ Steps:
 
 ---
 
+## Additional Review Mode
+
+Besides the main pipeline in `main.py`, the project also includes `review-commits_agent.py`.
+
+This agent does not generate or refactor code. It is focused only on reviewing the changes prepared by the developer for commit, analyzing just the modified portion of the project instead of the whole codebase.
+
+---
+
 ## 🛡️ Security Focus
 
 This project is designed with an **Application Security (AppSec)** mindset, including:
