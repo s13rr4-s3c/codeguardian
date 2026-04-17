@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CodeGuardian - AppSec diff analyzer.
+CodeGuardian - AppSec diff analyzer testes.
 Streaming com buffer de bloco para garantir cores corretas e feedback estruturado.
 """
 
